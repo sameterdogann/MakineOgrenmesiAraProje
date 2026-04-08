@@ -1,4 +1,4 @@
-# 🏥 Akıllı Sigorta Poliçesi ve Risk Analiz Sistemi (v2.0)
+# 🏥 Akıllı Sigorta Poliçesi ve Risk Analiz Sistemi 
 
 Bu proje, modern makine öğrenmesi algoritmalarını kullanarak sigorta sektöründeki risk analizi ve fiyatlandırma süreçlerini otomatize eden akademik tabanlı bir yazılım çözümüdür. Sistem, müşteri verilerini analiz ederek hem **Sınıflandırma** (Risk Grubu) hem de **Regresyon** (Poliçe Ücreti) tahmini yapar.
 
@@ -80,4 +80,3 @@ Sistem, sunum ve analiz için dört ana grafik türü üretir:
     * `Seçenek 3`: Veri setinin genel istatistikleri ve grafiksel dökümü alınır.
 
 ---
-*Bu proje, Piri Reis Üniversitesi Bilgisayar Programcılığı / Deniz Ulaştırma İşletme Mühendisliği kapsamında geliştirilen bir Makine Öğrenmesi uygulama çalışmasıdır.*
